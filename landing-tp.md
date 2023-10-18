@@ -6,6 +6,7 @@ Il y a deux types d'hyperviseurs : hyperviseurs de type 1 et 2.
 L'hyperviseur de type 1, nommé « bare metal » s’exécute directement sur le matériel de l’hôte. L'hyperviseur de type 2, nommé « hébergé » s’exécute sous forme d’une couche logicielle sur un système d’exploitation, comme n’importe quel autre programme informatique. 
 
 [Ip 1re vm](./Ip_landing_vm1.png)
+
 [Ip 2nd vm](./Ip_landing_vm2.png)
 
 ##### Changez le nom d'hôte des machines pour avoir respectivement vm-landing1 et vm-landing2
